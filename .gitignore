@@ -1,0 +1,10 @@
+bin
+Bin
+obj
+Obj
+release
+Release
+compile
+Compile
+*.user
+*.suo
